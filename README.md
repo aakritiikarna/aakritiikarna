@@ -1,125 +1,88 @@
-# Hey, I'm Aakriti 👋
+I want you to design a **professional, modern, recruiter-friendly GitHub Profile README** for me.
 
-### Software Developer · Full Stack · Always Learning
+My GitHub username is:
 
-I'm a **B.Tech graduate and aspiring Software Developer** who enjoys building things, understanding how they work, and continuously improving my engineering skills.
+`aakritiikarna`
 
-Currently focused on becoming a stronger **full-stack developer** while sharpening my fundamentals in **Data Structures & Algorithms, Backend Development, SQL, and System Design**.
+I do NOT want my GitHub profile README to look like a portfolio or a list of projects. **Do not create a project showcase section.** My repositories are already visible on my GitHub profile.
 
-I like learning by building, breaking things, fixing them, and occasionally wondering why the code worked five minutes ago. :)
+I want the README to feel like a polished software developer's personal profile — clean, minimal, modern, confident, and professional.
 
----
+### About me
 
-## 🧭 What I'm Focused On
+* Name: Aakriti Karna
+* B.Tech graduate
+* Aspiring Software Developer / Full Stack Developer
+* Interested in building real-world applications
+* Currently improving DSA, backend development, SQL and system design
+* Technologies I work with: Java, JavaScript, Python, React, Node.js, Express.js, MongoDB, MySQL, Git and GitHub
+* I enjoy learning by building and solving problems
+* I'm looking for software development opportunities
 
-```text
-01  Strong programming fundamentals
-02  Data Structures & Algorithms
-03  Backend & API development
-04  Databases & SQL
-05  Writing clean, maintainable code
-06  Understanding system design
-07  Building real-world applications
-```
+### What I want in the README
 
----
+Create a visually attractive profile with sections such as:
 
-## ⚡ Technologies I Work With
+1. A strong introduction/header
+2. Short professional "About Me"
+3. "What I'm currently focused on"
+4. "Tech Stack" with clean badges/icons
+5. "Learning & Growth"
+6. A short developer philosophy / personal touch
+7. GitHub activity/statistics ONLY if they are guaranteed to work
+8. Contact / Connect section
+9. A subtle closing line
 
-**Languages**
+### VERY IMPORTANT
 
-`Java` · `JavaScript` · `Python` · `SQL`
+Do NOT use broken or unreliable image URLs.
 
-**Frontend**
+Do NOT use:
 
-`React` · `Vite` · `HTML` · `CSS` · `Tailwind CSS`
+* `github-readme-stats.vercel.app`
+* `streak-stats.demolab.com`
+* random external image hosts
+* generated contribution graph images
+* animated GIFs
+* visitor counters
+* anything that can easily show a broken image
 
-**Backend**
+If you use badges, use reliable shields.io badge URLs only.
 
-`Node.js` · `Express.js` · `REST APIs` · `JWT`
+Prefer **pure Markdown + HTML + shields.io badges** so the README renders reliably on GitHub.
 
-**Databases**
+Do NOT overuse emojis.
 
-`MongoDB` · `MySQL`
+Do NOT make it look childish, flashy, or like a template.
 
-**Tools**
+Do NOT include fake statistics.
 
-`Git` · `GitHub` · `VS Code` · `Postman`
+Do NOT invent achievements, certifications, experience, companies, or technologies that I did not mention.
 
----
+### Design direction
 
-## 🌱 Currently Learning
+I want something similar to the GitHub profiles of strong software engineers:
 
-I'm currently going deeper into:
+* Minimal
+* Elegant
+* Professional
+* Developer-focused
+* Good typography
+* Clear hierarchy
+* Lots of whitespace
+* Subtle personality
+* Recruiter-friendly
 
-**DSA → Backend Engineering → SQL → System Design**
+The first section should immediately communicate:
 
-My goal isn't just to make applications work, but to understand **why they work, how they scale, and how to build them better.**
+**Aakriti Karna | Software Developer | Full Stack**
 
----
+The README should be concise enough that a recruiter can understand it in 10–15 seconds.
 
-## 🧠 My Development Philosophy
+### Technical requirement
 
-> **Learn → Build → Break → Debug → Improve**
+Return ONLY the final `README.md` content inside ONE markdown code block.
 
-I believe the best way to learn software development is to actually build things.
+Before giving the README, internally check every link and image source for GitHub compatibility.
 
-Every project, bug, deployment issue, and failed approach teaches something new.
-
----
-
-## 💻 Beyond Code
-
-I enjoy exploring the intersection of **technology, creativity, and product thinking**.
-
-I'm particularly interested in:
-
-* Building useful digital products
-* Clean and intuitive interfaces
-* Backend architecture
-* Problem solving
-* Learning new technologies
-* Turning ideas into working software
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakritiikarna&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakritiikarna&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Consistency > Perfection
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aakritiikarna&theme=transparent&hide_border=true"/>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/aakritiikarna">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="www.linkedin.com/in/aakriti-karna-a061b8284">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:Akreetykarna123@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <i>Building today. Learning every day. Getting better one commit at a time.</i>
-</p>
+Most importantly: **I want a README that actually renders correctly on GitHub without broken image icons.**
