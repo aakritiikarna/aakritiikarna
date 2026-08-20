@@ -1,88 +1,87 @@
-I want you to design a **professional, modern, recruiter-friendly GitHub Profile README** for me.
+<br>
 
-My GitHub username is:
+<div align="center">
 
-`aakritiikarna`
+# Aakriti Karna
 
-I do NOT want my GitHub profile README to look like a portfolio or a list of projects. **Do not create a project showcase section.** My repositories are already visible on my GitHub profile.
+**Software Developer · Full Stack · Problem Solver**
 
-I want the README to feel like a polished software developer's personal profile — clean, minimal, modern, confident, and professional.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakritiikarna)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aakritiikarna)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-### About me
+</div>
 
-* Name: Aakriti Karna
-* B.Tech graduate
-* Aspiring Software Developer / Full Stack Developer
-* Interested in building real-world applications
-* Currently improving DSA, backend development, SQL and system design
-* Technologies I work with: Java, JavaScript, Python, React, Node.js, Express.js, MongoDB, MySQL, Git and GitHub
-* I enjoy learning by building and solving problems
-* I'm looking for software development opportunities
+---
 
-### What I want in the README
+## About
 
-Create a visually attractive profile with sections such as:
+B.Tech graduate building toward a career in software development. I focus on writing clean, practical code and understanding systems from the ground up — not just making things work, but understanding why they work.
 
-1. A strong introduction/header
-2. Short professional "About Me"
-3. "What I'm currently focused on"
-4. "Tech Stack" with clean badges/icons
-5. "Learning & Growth"
-6. A short developer philosophy / personal touch
-7. GitHub activity/statistics ONLY if they are guaranteed to work
-8. Contact / Connect section
-9. A subtle closing line
+I'm drawn to full-stack development because it lets me own a problem end to end, from database design to user interface. Currently deepening my fundamentals in backend development, data structures, SQL, and system design to become a stronger engineer.
 
-### VERY IMPORTANT
+---
 
-Do NOT use broken or unreliable image URLs.
+## Currently Focused On
 
-Do NOT use:
+- Strengthening **DSA** through consistent daily practice
+- Building backend systems with **Node.js**, **Express**, and **databases**
+- Improving **SQL** — queries, schema design, and performance basics
+- Learning **system design** fundamentals
+- Working toward a strong software development role
 
-* `github-readme-stats.vercel.app`
-* `streak-stats.demolab.com`
-* random external image hosts
-* generated contribution graph images
-* animated GIFs
-* visitor counters
-* anything that can easily show a broken image
+---
 
-If you use badges, use reliable shields.io badge URLs only.
+## Tech Stack
 
-Prefer **pure Markdown + HTML + shields.io badges** so the README renders reliably on GitHub.
+**Languages**
 
-Do NOT overuse emojis.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-Do NOT make it look childish, flashy, or like a template.
+**Frontend**
 
-Do NOT include fake statistics.
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-Do NOT invent achievements, certifications, experience, companies, or technologies that I did not mention.
+**Backend**
 
-### Design direction
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-I want something similar to the GitHub profiles of strong software engineers:
+**Databases**
 
-* Minimal
-* Elegant
-* Professional
-* Developer-focused
-* Good typography
-* Clear hierarchy
-* Lots of whitespace
-* Subtle personality
-* Recruiter-friendly
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-The first section should immediately communicate:
+**Tools**
 
-**Aakriti Karna | Software Developer | Full Stack**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-The README should be concise enough that a recruiter can understand it in 10–15 seconds.
+---
 
-### Technical requirement
+## How I Work
 
-Return ONLY the final `README.md` content inside ONE markdown code block.
+I learn by building. Reading about a concept is a starting point — I only feel like I understand something when I've implemented it, broken it, and fixed it. I prefer depth over breadth, and I'd rather build one thing properly than five things halfway.
 
-Before giving the README, internally check every link and image source for GitHub compatibility.
+I'm comfortable with being a beginner at something. The discomfort of not knowing yet is just part of the process.
 
-Most importantly: **I want a README that actually renders correctly on GitHub without broken image icons.**
+---
+
+## Open To
+
+I'm actively looking for **software developer** and **full-stack developer** roles where I can contribute meaningfully from day one and grow alongside a strong engineering team.
+
+If you're hiring or know of an opportunity that fits, I'd love to connect.
+
+---
+
+<div align="center">
+
+*Writing code, one problem at a time.*
+
+</div>
