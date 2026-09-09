@@ -20,7 +20,7 @@
 
 I'm a B.Tech graduate currently developing my software engineering skills. I started out in frontend development and have been expanding steadily into backend development, databases, DSA, and system design.
 
-What interests me most is understanding how things actually work underneath the interface, not just making it look right. My process is pretty consistent: **learn → build → break → debug → understand → improve.** I'm early in that process for a lot of these topics, and I'm okay with that — it's the part that actually makes the learning stick.
+What interests me most is understanding how things actually work underneath the interface, not just making it look right. My process is pretty consistent: **learn → build → break → debug → understand → improve.** I'm early in that process for a lot of these topics, and I'm okay with that it's the part that actually makes the learning stick.
 
 <br/>
 
